@@ -1,0 +1,8 @@
+requests
+bs4
+tweepy
+config
+api
+lib-platform
+shodan
+paramiko

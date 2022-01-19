@@ -1,0 +1,1 @@
+loginCredentials = ["habib@user", "habib@pass"]
