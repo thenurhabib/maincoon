@@ -1,6 +1,5 @@
 import colors
 
-
 def toolBanner():
     print(
         """
@@ -25,8 +24,3 @@ def toolBanner():
     
     """
     )
-
-
-# MainCoon is an automated reconnaissance framework
-#  meant for gathering information during penetration
-#  testing of web applications.
