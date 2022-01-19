@@ -18,7 +18,7 @@
 ## All Features
 ```yaml
 
-01. Whois             : Get Website Whois Information.     
+01. Whois            : Get Website Whois Information.     
 02. Torrent          : Get Torrent Information Via IP Address.             
 03. Shodan IP Info   : IP Information Gathering From Shodan
 04. Image Search     : Reverse Image Search.
