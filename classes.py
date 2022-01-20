@@ -1,17 +1,16 @@
 #! /usr/bin/python3
-
-import colors
-import requests
-from bs4 import BeautifulSoup
-import tweepy
-import shodan
-import webbrowser
-# from config import shodan_api
-import os
 import re
-import platform
-import paramiko
+import os
 import socket
+import colors
+import shodan
+import tweepy
+import requests
+import paramiko
+import platform
+import webbrowser
+from bs4 import BeautifulSoup
+
 
 class AllTools:
 
