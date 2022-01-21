@@ -1,6 +1,6 @@
-from os import system
 import colors
 import banner
+from os import system
 from time import sleep
 from classes import AllTools
 from loginCrd import loginCredentials
