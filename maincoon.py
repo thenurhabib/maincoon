@@ -35,8 +35,7 @@ try:
    12. Mail Lookup      : Get Mail Information.
 --------------------------------------------------------------"""
         )
-        #  = input(f"{colors.lightblue}Select a number : ")
-
+     
         try:
             menuInput = input("Select a Number : ")
             if "1" == menuInput or "01" == menuInput:
