@@ -1,17 +1,16 @@
 #! /usr/bin/python3
-import re
+
+# Import Modules
 import os
-import socket
+import re
 import colors
 import shodan
-import tweepy
 import requests
-import paramiko
-import platform
 import webbrowser
-from bs4 import BeautifulSoup
+import platform
 
 
+# Main Class
 class AllTools:
 
     #  Whois Information
