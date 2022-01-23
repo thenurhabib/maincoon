@@ -1,3 +1,6 @@
+#! /usr/bin/python3
+# Author Md. nur habib
+
 # Import Some Modules and Functions
 import colors
 import banner
